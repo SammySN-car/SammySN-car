@@ -76,6 +76,6 @@ Merged pull requests into:
 
 <div align="center">
 
-![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SammySN-car&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
+![Samar's GitHub stats](https://github-readme-stats2.vercel.app/api?username=SammySN-car&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400)
 
 </div>
