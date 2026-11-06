@@ -33,6 +33,7 @@
 | [**Smart MCQ Solver**](https://github.com/SammySN-car/smart-mcq-solver) | PyTorch · ELECTRA · MiniLM · Qwen RAG | **Rank 2 / 800+** at IIT Madras. 4-tier ensemble: MCQNet (65K dual n-grams), fine-tuned ELECTRA (5-head Multi-Sample Dropout + LLRD), MiniLM-L12, and 4-bit NF4 QLoRA over a 50K-article Wikipedia FAISS index. |
 | [**Amazon ML Challenge 2026**](https://github.com/SammySN-car/amazon-ml-2026) | Python · XGBoost · LightGBM · Polars | CPU-only entity resolution pipeline for 1.7M records (Public LB: **0.924**). Budget-capped candidate blocking (96.3% recall) feeding a 36-feature GBDT scoring engine with chunk checkpointing. |
 | [**DevPulse**](https://github.com/SammySN-car/devpulse) | Python · Ollama (Qwen 2.5 7B) · Discord.py | Local-first Discord bot aggregating tech releases & trending repos; executes automated multi-item evaluation using an on-device Qwen 2.5 7B model via Ollama with zero cloud API cost. |
+| [**Vehicle-Parking-App-v2**](https://github.com/SammySN-car/Vehicle-Parking-App-v2) | Flask · Vue 3 · Celery · Redis · SQLite | Full-stack parking management platform with JWT auth, SQLAlchemy ORM, Chart.js analytics, and Celery + Redis async background CSV export workers. |
 | [**moodbeats**](https://github.com/SammySN-car/moodbeats) | Python · FastAPI · RAG · Vue 3 | AI music discovery engine combining natural language vibe descriptions with vector similarity search, neural reranking, and real-time audio feature extraction. |
 
 ---
