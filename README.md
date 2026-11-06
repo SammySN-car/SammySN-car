@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Samar%20Nathani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%7C%20Agentic%20Infrastructure%20%7C%20Competitive%20ML&descAlignY=62&descAlign=50" width="100%" alt="Samar Nathani Header"/>
 
 <a href="https://readme-typing-svg.herokuapp.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=AI+Systems+%26+Applied+ML+Engineer;IIT+Madras+DL+%26+GenAI+Rank+2+(800%2B+Students);Creator+of+OCCE+Token-Saving+MCP+Server;Autonomous+Agents+%26+Multi-Model+RAG;B.Sc.+in+Programming+%26+Data+Science+%40+IITM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=AI+Systems+%26+Applied+ML+Engineer;IIT+Madras+DL+%26+GenAI+Rank+2+(800%2B+Students);Autonomous+Agents+%26+Multi-Model+RAG;Scalable+Machine+Learning+Pipelines;B.Sc.+in+Programming+%26+Data+Science+%40+IITM" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -26,8 +26,8 @@
       <p style="font-size:12px; margin-top:0;"><b>IIT Madras Best Project</b><br/>MAP@3 = 0.76724 (Smart MCQ)</p>
     </td>
     <td width="25%" align="center">
-      <h3 style="color:#a78bfa; margin-bottom: 2px;">⚡ 75%–90%</h3>
-      <p style="font-size:12px; margin-top:0;"><b>Token Reduction</b><br/>Zero-Dep OCCE MCP Server</p>
+      <h3 style="color:#a78bfa; margin-bottom: 2px;">🚀 7+ Merged PRs</h3>
+      <p style="font-size:12px; margin-top:0;"><b>Global Open Source</b><br/>OmniRoute, FastStream, etc.</p>
     </td>
     <td width="25%" align="center">
       <h3 style="color:#38bdf8; margin-bottom: 2px;">📦 1.7M Records</h3>
@@ -60,7 +60,6 @@
       <h3>⚡ <a href="https://github.com/SammySN-car/opencode-context-mcp">OCCE Context Optimizer</a></h3>
       <p><b>Tech:</b> Python · MCP Protocol · AST Slicing · JSON-RPC 2.0 · Git Engine</p>
       <p>Zero-dependency Model Context Protocol (MCP) server cutting prompt token burn by <b>75%–90%</b> on OpenCode CLI, Cursor, and Claude Code. Features AST skeleton slicing with line-range anchors <code>[L45-88]</code>, terminal noise gating, and multi-framework test reducers.</p>
-      <p><i>Listed on the Agensi AI Agent Skill Marketplace.</i></p>
     </td>
     <td width="50%" valign="top">
       <h3>🔄 <a href="https://github.com/SammySN-car/The-Sequential-Matching-Problem">The Sequential Matching Problem</a></h3>
