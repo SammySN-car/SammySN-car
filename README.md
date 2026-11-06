@@ -1,78 +1,139 @@
 <div align="center">
 
-# Hi, I'm Samar Nathani 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Samar%20Nathani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20%7C%20Agentic%20Infrastructure%20%7C%20Competitive%20ML&descAlignY=62&descAlign=50" width="100%" alt="Samar Nathani Header"/>
 
-**AI Systems & Applied ML Engineer · B.Sc. in Programming and Data Science @ IIT Madras**
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=AI+Systems+%26+Applied+ML+Engineer;IIT+Madras+DL+%26+GenAI+Rank+2+(800%2B+Students);Creator+of+OCCE+Token-Saving+MCP+Server;Autonomous+Agents+%26+Multi-Model+RAG;B.Sc.+in+Programming+%26+Data+Science+%40+IITM" alt="Typing SVG" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SammySN--car-181717?style=flat&logo=github)](https://github.com/SammySN-car)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samar%20Nathani-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/samar-nathani-451225384)
-[![Email](https://img.shields.io/badge/Email-samarnathani0%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:samarnathani0@gmail.com)
-
-*Building token-efficient agent infrastructure, high-dimensional ML pipelines, and production retrieval systems.*
+<p align="center">
+  <a href="https://sammysn-car.github.io"><img src="https://img.shields.io/badge/Portfolio-sammysn--car.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/samar-nathani-451225384"><img src="https://img.shields.io/badge/LinkedIn-Samar_Nathani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:samarnathani0@gmail.com"><img src="https://img.shields.io/badge/Email-samarnathani0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/SammySN-car"><img src="https://img.shields.io/badge/GitHub-SammySN--car-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 </div>
 
 ---
 
-## 🏆 Honors & Distinctions
+### 📊 Key Impact & Engineering Metrics
 
-- 🥈 **Rank 2 out of 800+ Students** — **IIT Madras** Best Course Project Competition (*Intro to Deep Learning & Generative AI*). MAP@3: `0.76724` with custom 4-tier ensemble & Wikipedia RAG. [[Certificate](https://drive.google.com/file/d/1Nfjm77bd_DMWOtNc682LAB3URTH5ZtJb/view?usp=sharing)]
-- 🏅 **Amazon ML Challenge 2026** — Engineered an end-to-end CPU-only entity resolution pipeline for 1.7M records achieving **0.924 Public Leaderboard** macro-F0.5.
-- 🎃 **Hacktoberfest 2026 Completionist++** — Recognized open-source contributor across global AI and developer tooling projects (*MLH × DEV × DigitalOcean*). [[Badge](https://drive.google.com/file/d/1YiVSezD-WhZej77G7pOLrrsp303F_416/view?usp=sharing)]
-- 📜 **HackerRank Certified**: Software Engineer Intern Role [[Cert](https://drive.google.com/file/d/1AGdlsmyUFC-IZ3aCOt587EharionuAY2/view?usp=sharing)] · SQL Intermediate [[Cert](https://drive.google.com/file/d/1mYOB_O1zZSm6tknZVXaDZc98p8iLIpAO/view?usp=sharing)]
-- 👥 **Team Lead**: Leading a 6-developer team orchestrating AI coding workflows and Conventional Commits for BS Software Engineering at IIT Madras.
-
----
-
-## 🚀 Featured Systems & Applied Projects
-
-| System | Tech Stack | Highlights |
-|---|---|---|
-| [**OCCE (OpenCode Context Optimizer)**](https://github.com/SammySN-car/opencode-context-mcp) | Python · MCP · AST · JSON-RPC 2.0 | Zero-dependency MCP server cutting prompt token burn by **75%–90%** via AST skeleton slicing with line anchors `[L45-88]`, terminal noise filtering, and multi-framework test reducers. |
-| [**The Sequential Matching Problem**](https://github.com/SammySN-car/The-Sequential-Matching-Problem) | Python · Edmonds' Blossom · Simulation | 24-track agentic research programme evaluating matching policies under partial observation; screened 30 candidates over 985 episodes and built a polynomial exact-k matching solver. |
-| [**Smart MCQ Solver**](https://github.com/SammySN-car/smart-mcq-solver) | PyTorch · ELECTRA · MiniLM · Qwen RAG | **Rank 2 / 800+** at IIT Madras. 4-tier ensemble: MCQNet (65K dual n-grams), fine-tuned ELECTRA (5-head Multi-Sample Dropout + LLRD), MiniLM-L12, and 4-bit NF4 QLoRA over a 50K-article Wikipedia FAISS index. |
-| [**Amazon ML Challenge 2026**](https://github.com/SammySN-car/amazon-ml-2026) | Python · XGBoost · LightGBM · Polars | CPU-only entity resolution pipeline for 1.7M records (Public LB: **0.924**). Budget-capped candidate blocking (96.3% recall) feeding a 36-feature GBDT scoring engine with chunk checkpointing. |
-| [**DevPulse**](https://github.com/SammySN-car/devpulse) | Python · Ollama (Qwen 2.5 7B) · Discord.py | Local-first Discord bot aggregating tech releases & trending repos; executes automated multi-item evaluation using an on-device Qwen 2.5 7B model via Ollama with zero cloud API cost. |
-| [**ai-research-agent**](https://github.com/SammySN-car/ai-research-agent) | LangGraph · Python · Supabase pgvector | Autonomous research assistant built with a compiled LangGraph StateGraph, dynamic tool routing (`retrieve`, `agent`, `use_tool`), dense pgvector retrieval, and MemorySaver checkpointer. |
-| [**moodbeats**](https://github.com/SammySN-car/moodbeats) | Python · FastAPI · RAG · Vue 3 | AI music discovery engine combining natural language vibe descriptions with vector similarity search, neural reranking, and real-time audio feature extraction. |
-
----
-
-## 🛠 Tech Stack
-
-- **Languages:** Python, Java, JavaScript, SQL, HTML/CSS
-- **AI / ML & Retrieval:** PyTorch, Transformers, LangGraph (StateGraph), LangChain, RAG, Supabase pgvector, FAISS, Scikit-Learn, LightGBM, XGBoost
-- **Backend & APIs:** FastAPI, Flask, REST APIs, JSON-RPC 2.0, Pydantic, Celery, Redis, SQLite, PostgreSQL
-- **Frontend:** Vue.js (Vue 3), Tailwind CSS, Vanilla JS
-- **Developer Tooling & Protocols:** Model Context Protocol (MCP), Git, GitHub Actions (CI/CD), Docker, Pytest, AST Parsing, Ollama
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h3 style="color:#22d3ee; margin-bottom: 2px;">🥈 Rank 2 / 800+</h3>
+      <p style="font-size:12px; margin-top:0;"><b>IIT Madras Best Project</b><br/>MAP@3 = 0.76724 (Smart MCQ)</p>
+    </td>
+    <td width="25%" align="center">
+      <h3 style="color:#a78bfa; margin-bottom: 2px;">⚡ 75%–90%</h3>
+      <p style="font-size:12px; margin-top:0;"><b>Token Reduction</b><br/>Zero-Dep OCCE MCP Server</p>
+    </td>
+    <td width="25%" align="center">
+      <h3 style="color:#38bdf8; margin-bottom: 2px;">📦 1.7M Records</h3>
+      <p style="font-size:12px; margin-top:0;"><b>0.924 Public LB</b><br/>Amazon ML Challenge 2026</p>
+    </td>
+    <td width="25%" align="center">
+      <h3 style="color:#34d399; margin-bottom: 2px;">🔄 985 Episodes</h3>
+      <p style="font-size:12px; margin-top:0;"><b>Edmonds' Blossom Solver</b><br/>Sequential Matching Research</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🤝 Open Source Contributions
+### 🏆 Honors & Distinctions
 
-Merged pull requests into core repositories:
-
-- [**pytorch/pytorch**](https://github.com/pytorch/pytorch) · [**supabase/supabase**](https://github.com/supabase/supabase) · [**ag2ai/faststream**](https://github.com/ag2ai/faststream)
-- [**wemake-services/django-modern-rest**](https://github.com/wemake-services/django-modern-rest) *(4 merged)* · [**dgtlmoon/changedetection.io**](https://github.com/dgtlmoon/changedetection.io)
+- 🥈 **Rank 2 out of 800+ Students** — **IIT Madras** Best Course Project Competition (*Intro to Deep Learning & Generative AI*). Developed custom 4-tier ensemble (MCQNet, ELECTRA-base with 5-head MSD + LLRD, MiniLM, and Wikipedia Qwen RAG). [**[View Certificate]**](https://drive.google.com/file/d/1Nfjm77bd_DMWOtNc682LAB3URTH5ZtJb/view?usp=sharing)
+- 🏅 **Amazon ML Challenge 2026** — Engineered an end-to-end CPU-only entity resolution pipeline for 1.7M records achieving **0.924 Public Leaderboard** macro-F0.5 with budget-capped candidate blocking (96.3% recall).
+- 🎃 **Hacktoberfest 2026 Completionist++** — Recognized open-source contributor across core developer tooling and AI infrastructure (*MLH × DEV × DigitalOcean*). [**[View Badge]**](https://drive.google.com/file/d/1YiVSezD-WhZej77G7pOLrrsp303F_416/view?usp=sharing)
+- 📜 **HackerRank Certified**: [Software Engineer Intern](https://drive.google.com/file/d/1AGdlsmyUFC-IZ3aCOt587EharionuAY2/view?usp=sharing) · [SQL Intermediate](https://drive.google.com/file/d/1mYOB_O1zZSm6tknZVXaDZc98p8iLIpAO/view?usp=sharing)
+- 👥 **Agentic Sprint Team Lead**: Leading a 6-developer team orchestrating AI coding workflows across OpenCode & Cursor with PR review gates and Conventional Commits for BS Software Engineering at IIT Madras.
 
 ---
 
-## 📚 Academic Coursework @ IIT Madras
+### 🚀 Flagship Systems & Applied Projects
 
-<details>
-<summary><b>Click to expand full coursework</b></summary>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/SammySN-car/opencode-context-mcp">OCCE Context Optimizer</a></h3>
+      <p><b>Tech:</b> Python · MCP Protocol · AST Slicing · JSON-RPC 2.0 · Git Engine</p>
+      <p>Zero-dependency Model Context Protocol (MCP) server cutting prompt token burn by <b>75%–90%</b> on OpenCode CLI, Cursor, and Claude Code. Features AST skeleton slicing with line-range anchors <code>[L45-88]</code>, terminal noise gating, and multi-framework test reducers.</p>
+      <p><i>Listed on the Agensi AI Agent Skill Marketplace.</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 <a href="https://github.com/SammySN-car/The-Sequential-Matching-Problem">The Sequential Matching Problem</a></h3>
+      <p><b>Tech:</b> Python · Edmonds' Blossom · Discrete-Event Simulation · Docker</p>
+      <p>Autonomous agent across a 24-track research programme evaluating matching policies under partial observation. Screened 30 candidate methods over 985 recorded episodes; engineered a polynomial-time exact-k maximum-weight matching solver via Edmonds' blossom algorithm.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/SammySN-car/smart-mcq-solver">Smart MCQ Solver (IIT Madras Rank 2)</a></h3>
+      <p><b>Tech:</b> PyTorch · ELECTRA · MiniLM-L12 · Qwen RAG · FAISS · QLoRA</p>
+      <p>Secured <b>Rank 2 out of 800+ students</b> (MAP@3: <b>0.76724</b>). Built a 4-tier pipeline: MCQNet (65K dual n-grams), fine-tuned ELECTRA with 5-head Multi-Sample Dropout & LLRD, MiniLM bi-encoder, and 4-bit NF4 Qwen RAG over a 50K-article Wikipedia FAISS index.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/SammySN-car/amazon-ml-2026">Amazon ML Challenge 2026</a></h3>
+      <p><b>Tech:</b> Python · XGBoost · LightGBM · Polars · Feature Engineering</p>
+      <p>CPU-only entity resolution pipeline for 1.7M records (Public LB: <b>0.924</b>). Architected budget-capped candidate blocking (96.3% validation recall) feeding a 36-feature GBDT scoring engine with resumable chunk-checkpointed inference.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/SammySN-car/devpulse">DevPulse — On-Device Tech Radar</a></h3>
+      <p><b>Tech:</b> Python · Ollama (Qwen 2.5 7B) · Discord.py · SQLite · REST APIs</p>
+      <p>Local-first Discord bot aggregating tech releases & GitHub trending repos. Executes automated multi-item evaluation using an on-device Qwen 2.5 7B model via Ollama with zero cloud API inference cost, deterministic scoring, and sleeper pick curation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/SammySN-car/ai-research-agent">AI Research Agent</a></h3>
+      <p><b>Tech:</b> LangGraph (StateGraph) · Supabase pgvector · OpenRouter · Python</p>
+      <p>Autonomous research agent with compiled StateGraph, dynamic tool routing (<code>retrieve</code>, <code>agent</code>, <code>use_tool</code>), dense pgvector document chunk search, and multi-turn stateful MemorySaver checkpointer.</p>
+    </td>
+  </tr>
+</table>
 
-- **Programming:** Programming in Python (S), Concepts using Java (S), Data Structures & Algorithms in Python (A), Computational Thinking
-- **Data Science & Systems:** Tools in Data Science, System Commands, Database Management Systems (A), Business Data Management
-- **Machine Learning & AI:** Introduction to Deep Learning & Generative AI, Machine Learning Foundations, Machine Learning Techniques (S), Machine Learning Practice
-- **Mathematics & Statistics:** Mathematics for Data Science I & II, Statistics for Data Science I & II
+---
 
-</details>
+### 🛠 Tech Stack & Tooling
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI / ML & Retrieval** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Vector_Search-22d3ee?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-Meta-0468D7?style=flat-square) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-008080?style=flat-square) ![XGBoost](https://img.shields.io/badge/XGBoost-1572B6?style=flat-square) |
+| **Backend & MCP** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-a78bfa?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white) |
+
+</div>
+
+---
+
+### 🤝 Open Source Contributions
+
+Merged pull requests into major global open-source ecosystems:
+
+- [**pytorch/pytorch**](https://github.com/pytorch/pytorch) · Core deep learning framework
+- [**supabase/supabase**](https://github.com/supabase/supabase) · Open source Firebase alternative & vector database
+- [**ag2ai/faststream**](https://github.com/ag2ai/faststream) · Asynchronous event-driven microservices framework
+- [**wemake-services/django-modern-rest**](https://github.com/wemake-services/django-modern-rest) *(4 merged PRs)* · Modern async Django REST framework
+- [**dgtlmoon/changedetection.io**](https://github.com/dgtlmoon/changedetection.io) · Website change & visual difference detection
 
 ---
 
 <div align="center">
 
-![Samar's GitHub stats](https://streak-stats.demolab.com/?user=SammySN-car&theme=transparent&hide_border=true&cache_seconds=86400)
+### 📈 Contribution Activity
+
+<img src="https://streak-stats.demolab.com/?user=SammySN-car&theme=tokyonight&hide_border=true&background=0a0e14&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=a78bfa" alt="GitHub Streak Stats" />
+
+<br/>
+
+<a href="https://sammysn-car.github.io">
+  <img src="https://img.shields.io/badge/Explore_Live_Portfolio-sammysn--car.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+</a>
 
 </div>
