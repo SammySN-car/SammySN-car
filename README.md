@@ -114,13 +114,15 @@
 
 ### 🤝 Open Source Contributions
 
-Merged pull requests into major global open-source ecosystems:
+#### 🚀 Merged Pull Requests
+- [**cheaper-inference/OmniRoute**](https://github.com/cheaper-inference/OmniRoute/pull/17178) · **Merged PR #17178**: Fixed CLI `cmd.exe` argument escaping on resolved spawn shell for the universal AI gateway (375 providers, 1,400+ models, 900+ contributors).
+- [**ag2ai/faststream**](https://github.com/ag2ai/faststream/pull/3042) · **Merged PR #3042**: Implemented support for literal braces in address routing across all brokers in AutoGen / AG2's event-driven microservices framework.
+- [**dgtlmoon/changedetection.io**](https://github.com/dgtlmoon/changedetection.io/pull/4419) · **Merged PR #4419**: Engineered minimal sidebar notification count badges for website change detection (18,000+ ⭐).
+- [**wemake-services/django-modern-rest**](https://github.com/wemake-services/django-modern-rest) · **4 Merged PRs** ([#1312](https://github.com/wemake-services/django-modern-rest/pull/1312), [#1307](https://github.com/wemake-services/django-modern-rest/pull/1307), [#1305](https://github.com/wemake-services/django-modern-rest/pull/1305), [#1301](https://github.com/wemake-services/django-modern-rest/pull/1301)): Redis throttling reset time consistency, import-time validation (`Renderer.validate`, `Parser.validate`), and OpenAPI custom HTTP schema mapping.
 
-- [**pytorch/pytorch**](https://github.com/pytorch/pytorch) · Core deep learning framework
-- [**supabase/supabase**](https://github.com/supabase/supabase) · Open source Firebase alternative & vector database
-- [**ag2ai/faststream**](https://github.com/ag2ai/faststream) · Asynchronous event-driven microservices framework
-- [**wemake-services/django-modern-rest**](https://github.com/wemake-services/django-modern-rest) *(4 merged PRs)* · Modern async Django REST framework
-- [**dgtlmoon/changedetection.io**](https://github.com/dgtlmoon/changedetection.io) · Website change & visual difference detection
+#### 🔬 Contributions Under Review
+- [**pytorch/pytorch**](https://github.com/pytorch/pytorch/pull/194416) · **PR #194416**: Fixed `quantized_batch_norm` schema making weight and bias non-optional in core deep learning framework.
+- [**supabase/supabase**](https://github.com/supabase/supabase/pull/49425) · **PR #49425**: Documented cross-project database branching webhook notify security.
 
 ---
 
